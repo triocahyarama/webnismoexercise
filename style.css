@@ -1,0 +1,22 @@
+.slider h1,
+.slider h4 {
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+}
+
+.parallax {
+    height: 240px;
+}
+
+.parallax-container h1 {
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+    margin-top: 15%;
+
+}
+
+.parallax img {
+    opacity: .5 !important;
+}
+
+footer {
+    padding: 20px;
+}
