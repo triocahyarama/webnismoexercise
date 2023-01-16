@@ -1,3 +1,6 @@
+body {
+    font : arial;
+}
 .slider h1,
 .slider h4 {
     text-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
